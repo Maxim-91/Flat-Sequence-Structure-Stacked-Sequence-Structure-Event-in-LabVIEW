@@ -1,6 +1,7 @@
 ### LabVIEW is a development environment and platform for running programs written in the National Instruments "G" graphical programming language.
 
 ## Results of working with the program
+The programs do: calculation of the time of their work; counter-stopwatch; using various events (Mouse Down?, Panel Close?, Mouse Leave, Key Down and Value Change).
 
 ### File 1_1.vi
 ![image](https://github.com/user-attachments/assets/e1b6b44b-0c7c-4435-a820-57f5d71214c9)
